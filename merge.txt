@@ -1,2 +1,6 @@
 This is the master branch
+
 This is another merge
+
+this is append in existing file
+
