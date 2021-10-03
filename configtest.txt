@@ -1,1 +1,2 @@
 This file check for git config
+This line added in remote system
